@@ -14,3 +14,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm Stunx, the FS in my nick means "Fake Spiderman". I like superheroes, especially those from Marvel, I'm a fan of Terminator (?), And I like classics. I am also ROMHacker Pokémon GBA.
+
+Currently I program in these programming languages:
+* C#
+* C/C++
+* Python
+* Rust
+* V
+
+I have knowledge of HTML, JavaScript and CSS.
+
+Currently I have a project called __"Bucky"__, which consists of a fast, secure and stable virtual machine.
+
+Contact me:
+
+**Discord:** Stunx#8549

@@ -28,6 +28,4 @@ I have knowledge of HTML, JavaScript and CSS.
 
 Currently I have a project called __"Bucky"__, which consists of a fast, secure and stable virtual machine.
 
-Contact me:
-
 **Discord:** Stunx#8549

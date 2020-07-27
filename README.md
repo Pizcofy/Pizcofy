@@ -15,9 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Stunx, the FS in my nick means "Fake Spiderman". I like superheroes, especially those from Marvel, I'm a fan of Terminator (?), And I like classics. I am also ROMHacker Pokémon GBA.
+I'm Stunx, the FS in my nick means "Fake Spiderman". I like superheroes, especially those from Marvel, I'm a fan of Terminator (?), And I like classics. I am also ROMHacker Pokemon GBA.
 
-Currently I program in these programming languages:
+* 😄 Pronouns: He/him
+
+### My stats :chart_with_upwards_trend:
+[![StunxFS's github stats](https://github-readme-stats.vercel.app/api?username=StunxFS)](https://github.com/anuraghazra/github-readme-stats)
+
+### Programming Languages :rice_scene:
+
+I currently know and am learning these languages
 * C#
 * C/C++
 * Python
@@ -26,6 +33,7 @@ Currently I program in these programming languages:
 
 I have knowledge of HTML, JavaScript and CSS.
 
-Currently I have a project called __"Bucky"__, which consists of a fast, secure and stable virtual machine.
+Currently I have a project called *"Bucky"*, which consists of a fast, secure and stable virtual machine.
 
+### Let's talk by :iphone:
 **Discord:** Stunx#8549

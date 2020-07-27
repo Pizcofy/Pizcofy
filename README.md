@@ -23,6 +23,7 @@ I'm Stunx, the FS in my nick means "Fake Spiderman". I like superheroes, especia
 [![StunxFS's github stats](https://github-readme-stats.vercel.app/api?username=StunxFS)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Programming Languages :rice_scene:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StunxFS&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 I currently know and am learning these languages
 * C#

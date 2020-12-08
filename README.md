@@ -20,10 +20,10 @@ I'm Pizcofy. I like superheroes, especially those from Marvel, I'm a fan of Term
 * 😄 Pronouns: He/him
 
 ### My stats :chart_with_upwards_trend:
-[![StunxFS's github stats](https://github-readme-stats.vercel.app/api?username=StunxFS)](https://github.com/anuraghazra/github-readme-stats)
+[![StunxFS's github stats](https://github-readme-stats.vercel.app/api?username=Pizcofy)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Programming Languages :rice_scene:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StunxFS&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PizcofyS&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 I currently know and am learning these languages
 * C#

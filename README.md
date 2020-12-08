@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Stunx, the FS in my nick means "Fake Spiderman". I like superheroes, especially those from Marvel, I'm a fan of Terminator (?), And I like classics. I am also ROMHacker Pokemon GBA.
+I'm Pizcofy. I like superheroes, especially those from Marvel, I'm a fan of Terminator (?), And I like classics. I am also ROMHacker Pokemon GBA.
 
 * 😄 Pronouns: He/him
 

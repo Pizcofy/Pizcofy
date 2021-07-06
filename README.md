@@ -15,10 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm StunxFS. I like superheroes, especially those from Marvel, I'm a fan of Terminator, and I like classics. I am also ROMHacker Pokemon GBA.
-
-* 😄 Pronouns: He/him
-
 <h3 align="center">:chart_with_upwards_trend: My stats</h3>
 <div align="center">
 
@@ -42,7 +38,5 @@ I currently know and am learning these languages
 
 I have knowledge of HTML, JavaScript and CSS.
 
-<!--
 ### 🔭 I’m currently working on
-Currently I have a project called [***"FokerScript"***](https://github.com/StunxFS/foker).
--->
+Currently, [***"Blux"***](https://github.com/blux-lang/blux).

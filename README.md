@@ -39,4 +39,4 @@ I currently know and am learning these languages
 I have knowledge of HTML, JavaScript and CSS.
 
 ### 🔭 I’m currently working on
-Currently, [***"Glaz"***](https://github.com/glaz-lang/glaz).
+Currently, [***"Rivet"***](https://github.com/rive-lang/rivet).

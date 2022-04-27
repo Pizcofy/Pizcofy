@@ -1,5 +1,7 @@
 <h1 align="center">Welcome! 👋</h1>
 
+**Discord:** StunxFS#8549
+
 <!--
 **StunxFS/StunxFS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,6 +17,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+I currently know and am learning these languages:
+* Python
+* V
+* C/C++
+* C#
+* Rust
+
+I have knowledge of HTML, JavaScript and CSS.
+
+### 🔭 I’m currently working on
+Currently, [***"Rivet"***](https://github.com/rivet-lang/rivet).
+
 <h3 align="center">:chart_with_upwards_trend: My stats</h3>
 <div align="center">
 
@@ -28,15 +42,3 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StunxFS&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
-
-I currently know and am learning these languages
-* V
-* C/C++
-* C#
-* Rust
-* Python
-
-I have knowledge of HTML, JavaScript and CSS.
-
-### 🔭 I’m currently working on
-Currently, [***"Rivet"***](https://github.com/rive-lang/rivet).

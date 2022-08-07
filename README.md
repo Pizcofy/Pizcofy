@@ -30,16 +30,7 @@ I have knowledge of HTML, JavaScript and CSS.
 * [**Stuge - A 2D top-down game engine**](https://github.com/StunxFS/stuge)
 * [**The Rivet programming language**](https://github.com/rivet-lang/rivet)
 
-<h3 align="center">:chart_with_upwards_trend: My stats</h3>
-<div align="center">
+* * *
 
 [![StunxFS's github stats](https://github-readme-stats.vercel.app/api?username=StunxFS)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
-
-<h3 align="center">:rice_scene: Programming Languages</h3>
-<div align="center">
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StunxFS&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>

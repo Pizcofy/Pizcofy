@@ -26,8 +26,9 @@ I currently know and am learning these languages:
 
 I have knowledge of HTML, JavaScript and CSS.
 
-### 🔭 I’m currently working on
-Currently, [***"Rivet"***](https://github.com/rivet-lang/rivet).
+### 🔭 Projects
+* [**Stuge - A 2D top-down game engine**](https://github.com/StunxFS/stuge)
+* [**The Rivet programming language**](https://github.com/rivet-lang/rivet)
 
 <h3 align="center">:chart_with_upwards_trend: My stats</h3>
 <div align="center">

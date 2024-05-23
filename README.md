@@ -1,4 +1,19 @@
-<!--<h1 align="center">Welcome! 👋</h1>-->
+<h1 align="center">Welcome! I'm StunxFS 👋</h1>
+
+### 💬 About me
+
+Hi! I am a programmer who loves fiction movies, video games and classics.
+
+I currently know and am learning these languages:
+* Python
+* V
+* C/C++
+* C#
+* Rust
+
+I have knowledge of HTML, JavaScript and CSS.
+
+### 📫 Contact me
 
 **Discord:** stunxfs
 
@@ -17,20 +32,23 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I currently know and am learning these languages:
-* Python
-* V
-* C/C++
-* C#
-* Rust
-
-I have knowledge of HTML, JavaScript and CSS.
-
-### 🔭 Projects
+### 🔭 My Projects
 * [**Stuge - A 2D top-down game engine**](https://github.com/StunxFS/stuge)
 * [**The Rivet programming language**](https://github.com/rivet-lang/rivet)
 
-* * *
+### ⚡ Stats
 
-[![StunxFS's github stats](https://github-readme-stats.vercel.app/api?username=StunxFS)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StunxFS&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <a href="https://github.com/StunxFS">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=StunxFS&theme=github_dark" />
+  </a>
+  <a href="https://github.com/StunxFS">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=StunxFS&theme=github_dark" />
+  </a>
+  <a href="https://github.com/StunxFS">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=StunxFS&theme=github_dark" />
+  </a>
+  <a href="https://github.com/StunxFS">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=StunxFS&theme=github_dark" />
+  </a>
+</p>

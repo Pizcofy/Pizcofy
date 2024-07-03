@@ -5,13 +5,13 @@
 Hi! I am a programmer who loves fiction movies, video games and classics.
 
 I currently know and am learning these languages:
+
 * Python
 * V
 * C/C++
 * C#
 * Rust
-
-I have knowledge of HTML, JavaScript and CSS.
+* Lua
 
 ### 📫 Contact me
 
@@ -33,8 +33,9 @@ Here are some ideas to get you started:
 -->
 
 ### 🔭 My Projects
-* [**Stuge - A 2D top-down game engine**](https://github.com/StunxFS/stuge)
+* [**The BlueScript programming language**](https://github.com/StunxFS/bluescript)
 * [**The Rivet programming language**](https://github.com/rivet-lang/rivet)
+* [**Stuge - A 2D top-down game engine**](https://github.com/StunxFS/stuge)
 
 ### ⚡ Stats
 

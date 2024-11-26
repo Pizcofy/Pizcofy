@@ -2,7 +2,7 @@
 
 ### 💬 About me
 
-Hi! I am a programmer who loves fiction movies, video games and classics.
+Hi! I am a programmer who loves fiction movies and video games, I am also a Spanish-speaking YouTuber.
 
 I currently know and am learning these languages:
 
@@ -10,7 +10,6 @@ I currently know and am learning these languages:
 * V
 * C/C++
 * C#
-* Rust
 * Lua
 
 ### 📫 Contact me
@@ -33,7 +32,6 @@ Here are some ideas to get you started:
 -->
 
 ### 🔭 My Projects
-* [**The BlueScript programming language**](https://github.com/StunxFS/bluescript)
 * [**The Rivet programming language**](https://github.com/rivet-lang/rivet)
 * [**Stuge - A 2D top-down game engine**](https://github.com/StunxFS/stuge)
 
